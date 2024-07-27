@@ -1,6 +1,0 @@
-flask
-beautifulsoup4
-requests
-librosa
-numpy
-soundfile
